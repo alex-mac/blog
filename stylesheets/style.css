@@ -322,7 +322,8 @@ pre {
   line-height: 1.2em;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  white-space: pre-wrap; }
 
 code {
   font-size: 15px;
@@ -335,10 +336,7 @@ code {
   vertical-align: baseline;
   zoom: 1;
   *display: inline;
-  *vertical-align: auto; }
-
-pre {
-    white-space: pre-wrap;
+  *vertical-align: auto; 
 }
 
 img {
