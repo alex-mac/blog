@@ -8,7 +8,7 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         About
-    url:          /blog/about
+    url:          /about
   - name:         Portfolio
     url:          http://meet-alexmac.com
     external:     true
