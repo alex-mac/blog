@@ -5,6 +5,8 @@ date:   2016-02-15 216:35:19 -0800
 categories: jekyll update
 ---
 
+Test string.  Why are you not working ?
+
 from 
 {% highlight html %}
 <div id="column">
