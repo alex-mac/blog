@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Angular Directives"
+date:   2016-02-15 216:35:19 -0800
+categories: jekyll update
+---
+
 from 
 {% highlight html %}
 <div id="column">
@@ -16,7 +23,6 @@ from
       <p class="content">
         {{project.content}}
       </p>
-
     </div>
   </div>
 </div>
