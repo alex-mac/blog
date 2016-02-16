@@ -15,7 +15,6 @@ links:
   - name:         GitHub
     url:          http://github.com/alex-mac
     external:     true
-highlighter:      rouge
 permalink:        pretty
 # Build settings
 markdown: kramdown
