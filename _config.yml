@@ -1,6 +1,6 @@
 title:            Scribble
 description:      A jekyll theme. Because I scribble.
-url:              # Site url, without a slash at the end.
+url:              "http://meet-alexmac.com"
 baseurl:          "/blog"
 signoff:          "Alex Mac"
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
