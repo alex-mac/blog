@@ -1,20 +1,25 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+title:            Scribble
+description:      A jekyll theme. Because I scribble.
+url:              # Site url, without a slash at the end.
+baseurl:          "/blog"
+signoff:          "Alex Mac"
+disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
-# Site settings
-title:  アリクスのBLOG
-email: meet.alexmac@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hopeless romantic, full stack web developer, JavaScript, Angular, Ruby. Ambitious about code, life, food and badminton
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-
-url: "http://meet-alexmac.com" # the base hostname & protocol for your site
-twitter_username: alexmac__
-github_username:  alex-mac
-
+links:
+  - name:         About
+    url:          /about
+  - name:         Portfolio
+    url:          http://meet-alexmac.com
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/alex-mac
+    external:     true
+highlighter:      pygments
+permalink:        pretty
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+
