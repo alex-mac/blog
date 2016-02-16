@@ -27,6 +27,7 @@ from
   </div>
 </div>
 {% endhighlight %}}
+
 To: 
 {% highlight html %}
 <div id="column">
