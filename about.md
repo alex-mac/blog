@@ -3,8 +3,4 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
-
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
-
-This theme is made by me. You have a nice day. ♥
+As a full-stack web developer, I love tackling challenges and always strive to continually acheive and pursue anything and everything that I get passionate about. I love listening to and playing (relatively) difficult piano pieces. In the next one year, I'm eager to strengthen myself as a developer, learn to box, discover new and rediscover old meaningful friendships, pick up my guitar, and win a tournament in badminton.
