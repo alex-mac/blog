@@ -2,7 +2,6 @@
 layout: post
 title:  It's Okay To Fail
 date:   2016-02-09 23:32:41 -0800
-categories: jekyll update
 ---
 
 This is the first post from myself to myself and to other asipring for the same dream. I want this blog to help others learn the lessons that I have had to learn on this amazing journey called life and about some pretty sweet features that I've learned along the way!
