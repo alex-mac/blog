@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTML tips target blank
+title: HTML Tips Target Blank
 date:   2016-02-09 23:45:41 -0800
 ---
 

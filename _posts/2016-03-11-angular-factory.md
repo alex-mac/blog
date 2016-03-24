@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angular Factories
-date:   2016-03-01 23:45:41 -0800
+date:   2016-03-11 23:45:41 -0800
 ---
 
 Angular has a lot of services available that may be confusing at first especially for new devs. One of which is the Factory service. the [Angular documentation](https://docs.angularjs.org/guide/services) provides the following definition 
