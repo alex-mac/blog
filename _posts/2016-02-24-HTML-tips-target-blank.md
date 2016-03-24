@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTML tips: HTML tips (opening a link in a new tab)
+title: HTML tips target blank
 date:   2016-02-09 23:45:41 -0800
 ---
 
