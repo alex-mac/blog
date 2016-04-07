@@ -1,7 +1,7 @@
 ---
 layout: post
 title:   How the Internet Works
-date:   2016-02-09 12:58:00 -0800
+date:   2016-04-07 12:58:00 -0800
 ---
 
 I recently had the opportunity to interview for an internship position and I was asked a question that I was definitely not prepared for. I don't remember the exact phrasing, but it went along the lines of "Explain what happens when you make a request for a specific website." I knew that this was a fundamental understanding but honestly I have been so occupied with jamming my brain with terminology and trying to learn so many things as fast as possible that I couldn't recall. So, guys and girls, this is going to mark my start in **diving DEEP** rather than *casting my net wide* (learning more in depth rather than learning many things quickly).
