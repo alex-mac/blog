@@ -1,6 +1,6 @@
 title:            Alex Mac
 description:      This is where I will keep track of my journey learning code.
-url:              "http://meet-alexmac.com/code-blog"
+url:              "http://meet-alexmac.com/blog"
 signoff:          "Alex Mac"
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
@@ -15,7 +15,7 @@ links:
   - name:         GitHub
     url:          http://github.com/alex-mac
     external:     true
-  - name:         Personal Blog
+  - name:         Code Blog
     url:          http://meet-alexmac.com/blog
     external:     true
 permalink:        pretty
