@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Data Structures in Javascript: Queue
-date:   2016-07-30 06:58:00 -0800
+date:   2016-07-30 15:00:00 -0800
 ---
 
 Sorry for the long break since my last post! I have been learning a lot and working very hard at my work! As a short status update, I am in charge of a huge project in which I am converting a manual process for veteran students and making the experience completely online. I have also been studying Java and learning about simple data structures, something which we didn't spend too much time on while in class during my time at General Assembly. Now, I am starting a series to help augment codeschool students and help them understand simple data structures in Javascript!

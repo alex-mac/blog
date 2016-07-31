@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angular Factories
+title:  Angular Factories
 date:   2016-03-11 23:45:41 -0800
 ---
 

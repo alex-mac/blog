@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   How the Internet Works
+title:  How the Internet Works
 date:   2016-04-07 12:58:00 -0800
 ---
 
