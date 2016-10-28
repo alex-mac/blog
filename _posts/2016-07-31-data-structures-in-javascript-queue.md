@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Data Structures in Javascript: Queue
+title:  Data Structures in Javascript for a simple Queue
 date:   2016-07-31 15:00:00 -0800
 ---
 
@@ -8,11 +8,11 @@ Sorry for the long break since my last post! I have been learning a lot and work
 
 Today, I'll be introducing a data structure known as a Queue. In Web Development (or in my experience with it thus far), there is not a strong need to understand data structures. You can get awawy with not understanding data structures at all, actually. For example, a Queues and Stacks can be implemented with an array. I do believe however that understanding and mastering different types of data structures will allow you to become a better programming and think more critically about a problem. Especially with the introduction of classes in ES6, the abstraction and encapsulation of data can help other developers understand code much more quickly and easily. 
 
-A Queue is a data structure that contains data in First In First Out (FIFO) order. You can think of a line at the bank or, if you're not from America, you probably refer to a line as a queue anyways. Items that enter the queue first are processes first. 
+A Queue is a data structure that contains data in First In First Out (FIFO) order. You can think of a line at the bank or, if you're not from America, you probably refer to a line as a queue anyways. Items that enter the queue first are processes first.
 
 When working with a Queue, you can add items to the queue, remove items from the front of the queue and print out your queue.
 
-In Javascript, you can use an array to create a queue without ever using a class: 
+In Javascript, you can use an array to create a queue without ever using a class:
 
 {% highlight javascript %}
   var queue = [1,2,3,4,5];
@@ -46,7 +46,7 @@ An array has all the methods you would need to implement a queue. Now I'm going 
     remove() {
       this._data.shift();
     }
-    
+
     // returns the front most item of this queue
     peek() {
       return this._data[0];
